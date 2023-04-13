@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 
-- I’m currently a PhD student in the [Apollo3 team](https://hal-cea.archives-ouvertes.fr/cea-02509714), a reactor physics industrial solver developed by the [French Atomic Energy Commission](https://www.cea.fr/english).
+I’m currently a PhD student in the [Apollo3 team](https://hal-cea.archives-ouvertes.fr/cea-02509714), a reactor physics industrial solver developed by the [French Atomic Energy Commission](https://www.cea.fr/english).
 
 - I’m interested in **numerical analysis and high-performance scientific computing**.
 
