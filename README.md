@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Kenneth
 
-- I’m a Research Software Engineer at Siemens, working on FPGA-based prototyping.
+- I’m a Research Software Engineer at Siemens, working on [FPGA-based prototyping](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
 
 - Prior to that I was a PhD student at the [French Atomic Energy Commission](https://www.cea.fr/english).
 
