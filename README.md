@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Kenneth
 
-- I’m a Software Engineer at Siemens, working on [FPGA-based prototyping](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
+- I’m a Software Engineer at Siemens, working on [FPGA-based chip validation](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
 
-- Before that I completed a PhD at [École Polytechnique](https://www.polytechnique.edu/en).
+- Before that I completed a PhD at [École polytechnique](https://www.polytechnique.edu/en).
 
 - I enjoy in applied mathematics and high-performance computing.
 
