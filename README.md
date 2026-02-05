@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Kenneth
 
-- I’m a Research Software Engineer at Siemens, working on [FPGA-based prototyping](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
+- I’m a Software Engineer at Siemens, working on [FPGA-based prototyping](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
 
-- Prior to that I was a PhD student at the [French Atomic Energy Commission](https://www.cea.fr/english).
+- Before that I completed a PhD at [École Polytechnique](https://www.polytechnique.edu/en).
 
-- I’m interested in applied mathematics and high-performance computing.
+- I enjoy in applied mathematics and high-performance computing.
 
-- On a daily basis, I write C++ and Python.
+- I write C++ everyday and Python almost everyday.
 
-- I write random [notes](https://kennethassogba.github.io/notes.html).
+- Rarely I write [notes](https://kennethassogba.github.io/notes.html).
 
