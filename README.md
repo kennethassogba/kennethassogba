@@ -10,3 +10,8 @@
 
 - Rarely I write [notes](https://kennethassogba.github.io/notes.html).
 
+### Open-source contributions
+
+- **Google Highway:** removed unused test-library dependencies to avoid unnecessary relinks ([#3502](https://github.com/google/highway/pull/3502)), and fixed a standalone test that could not link ([#3497](https://github.com/google/highway/pull/3497)).
+- **Google SentencePiece:** removed unused C++ includes ([#1350](https://github.com/google/sentencepiece/pull/1350)).
+
