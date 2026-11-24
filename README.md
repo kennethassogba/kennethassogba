@@ -1,8 +1,8 @@
-### Hi 👋, I'm Kenneth
+### Hi 👋 I'm Kenneth
 
 - I’m a research engineer working on a compiler for [chip design](https://eda.sw.siemens.com/en-US/ic/hav/veloce-cs/profpga-cs/). 
 
-- Before that I completed a [PhD](https://www.polytechnique.edu/en](https://theses.hal.science/tel-04509957) in mathematics.
+- Before that I completed a [PhD](https://theses.hal.science/tel-04509957) in mathematics.
 
 - I enjoy in applied mathematics and high-performance computing.
 
